@@ -2,4 +2,5 @@
  Curso em videos 
 
 
- Repositorio criado durando uma aula ao vivo
+ Repositorio criado durando uma aula ao vivo.
+ Essa linha eu adicionei no site.
