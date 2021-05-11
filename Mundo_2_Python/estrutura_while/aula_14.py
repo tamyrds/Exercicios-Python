@@ -1,6 +1,3 @@
-
-c = 1
-while c != 0:
-    c = int(input("Digite um valor: "))
-
-print('Fim')
+import random
+n = randint(10,100)
+print(n)
